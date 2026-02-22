@@ -1,12 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Krripe
+# 👋 Hi, I'm Krripe👋
 
 Developer with a passion for **game development**, **clean code**, and **building practical tools**.
 
----
-
-## 💻 Tech Stack
+### 💻 Tech Stack 💻
 
 ### Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -33,21 +31,15 @@ Developer with a passion for **game development**, **clean code**, and **buildin
 ### Version Control
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats 📊
 ![](https://github-readme-stats.vercel.app/api?username=Krripe&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Krripe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krripe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-## 💰 You can help me by donating
+### 💰 You can help me by donating 💰
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/krripe)
 
----
-
-## 🌐 Socials
+### 🌐 Socials 🌐
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/K72TAGk2m2)
 
 </div>
